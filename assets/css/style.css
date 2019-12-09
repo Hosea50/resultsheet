@@ -1,0 +1,31 @@
+p1 {color: blue; font-size: 400%;}
+p2 {color: brown; font-size: 400%;}
+p3 {color: orangered; font-size: 400%;}
+p4 {color: blue; font-size: 400%;}
+p5 {color: green; font-size: 400%;}
+p6 {color: brown; font-size: 400%;}
+body {
+    text-align-last: center;
+    border-spacing: 10px;
+}
+ sub {color: blue;}
+ i {color: blue;}
+ .search-field {
+     border-radius: 50px;
+     width: 500px;
+    }
+ .google {text-align: centered;}
+ .btn {
+     color: red;
+     background-color: aqua;
+     padding-top: 50px;
+     padding-left: 50px;
+     padding-right: 50px;
+     padding-bottom: 50px;
+     margin-left: 50px;
+     margin-bottom: 50px;
+     font-size: 40px;
+     font-weight: 600;
+ }
+ h {font-size: 32px;}
+ 
